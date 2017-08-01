@@ -1,0 +1,14 @@
+{
+  "name": "mmmm-muellabfuhr",
+  "version": "1.0.0",
+  "description": "MagicMirror module for any waste pickup schedule",
+  "main": "MMM-Muellabfuhr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Clarke",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
