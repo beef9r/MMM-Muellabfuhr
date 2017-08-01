@@ -1,4 +1,4 @@
-.MMM-MyWastePickup .pickup-container {
+.MMM-Muellabfuhr .pickup-container {
   line-height: 1.75;
   font-size: 20px;
   margin: 0;
@@ -7,11 +7,11 @@
   position: relative;
 }
 
-.MMM-MyWastePickup .pickup-container .pickup-date {
+.MMM-Muellabfuhr .pickup-container .pickup-date {
   color: #FFF;
 }
 
-.MMM-MyWastePickup .pickup-container .waste-pickup-icon-container {
+.MMM-Muellabfuhr .pickup-container .waste-pickup-icon-container {
   white-space: nowrap;
   position: absolute;
   right : 0px;
@@ -19,7 +19,7 @@
   line-height: 24px;
 }
 
-.MMM-MyWastePickup .pickup-container .waste-pickup-icon-container .waste-pickup-icon {
+.MMM-Muellabfuhr .pickup-container .waste-pickup-icon-container .waste-pickup-icon {
   width: 24px;
   height: 24px;
   fill: currentColor;
@@ -29,18 +29,18 @@
   margin-left:4px;
 }
 
-.MMM-MyWastePickup .pickup-container .waste-pickup-icon-container .waste-pickup-icon.recycle {
+.MMM-Muellabfuhr .pickup-container .waste-pickup-icon-container .waste-pickup-icon.recycle {
   fill: #3499D4;
 }
-.MMM-MyWastePickup .pickup-container .waste-pickup-icon-container .waste-pickup-icon.compost {
+.MMM-Muellabfuhr .pickup-container .waste-pickup-icon-container .waste-pickup-icon.compost {
   fill: #00A651;
 }
-.MMM-MyWastePickup .pickup-container .waste-pickup-icon-container .waste-pickup-icon.garbage {
+.MMM-Muellabfuhr .pickup-container .waste-pickup-icon-container .waste-pickup-icon.garbage {
   fill: #787878;
 }
-.MMM-MyWastePickup .pickup-container .waste-pickup-icon-container .waste-pickup-icon.yard_waste {
+.MMM-Muellabfuhr .pickup-container .waste-pickup-icon-container .waste-pickup-icon.yard_waste {
   fill: #C2A36E;
 }
-.MMM-MyWastePickup .pickup-container .waste-pickup-icon-container .waste-pickup-icon.christmas_tree {
+.MMM-Muellabfuhr .pickup-container .waste-pickup-icon-container .waste-pickup-icon.christmas_tree {
   fill: #008D45;
 }
