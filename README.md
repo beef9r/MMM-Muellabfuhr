@@ -1,6 +1,6 @@
-##MMM-Muellabfuhr
+## MMM-Muellabfuhr
 
-###config.js:
+### config.js:
 ```
 {
 		module: 'MMM-Muellabfuhr',
